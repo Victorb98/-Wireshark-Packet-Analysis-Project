@@ -1,6 +1,7 @@
-**📌 Wireshark Packet Analysis**
+**📌 Wireshark Packet Analysis Project**
 
-**Project 🧠 Summary**
+
+**🧠 Summary**
 
 This project showcases my ability to use Wireshark, a powerful network protocol analyzer, to perform an in-depth analysis of a packet capture file. I meticulously examined network traffic to answer a series of technical questions by applying filters and inspecting various protocol layers. This project demonstrates core skills in network fundamentals, cybersecurity, and data analysis.
 
