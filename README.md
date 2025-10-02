@@ -33,6 +33,7 @@ This section shows my process for answering basic questions about the packet cap
 
 <img width="1848" height="504" alt="wireshark basics questions 1 " src="https://github.com/user-attachments/assets/b72bae67-5cc5-463d-b7bf-3e4321e387c2" />
 
+
 <img width="1444" height="841" alt="Wireshark Basics ans 1 " src="https://github.com/user-attachments/assets/1d8d6a1b-aea6-4b15-996b-7ecc736b007e" />
 
 <img width="1909" height="861" alt="Wireshark Basics ans 2 " src="https://github.com/user-attachments/assets/c7be2d53-18d8-469e-b4a1-18f455f1abf2" />
